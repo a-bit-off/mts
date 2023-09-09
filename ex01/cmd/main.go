@@ -16,3 +16,4 @@ func main() {
 	log.Info("sum information")
 	log.Warn("sum warn")
 	log.Error("sum error")
+}
