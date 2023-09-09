@@ -1,10 +1,11 @@
 package log
 
 import (
-	"ex01/pkg/mylogger/collor"
-	"ex01/pkg/mylogger/level"
 	"fmt"
 	"time"
+
+	"ex01/pkg/mylogger/collor"
+	"ex01/pkg/mylogger/level"
 )
 
 // Log ...

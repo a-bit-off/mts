@@ -6,8 +6,9 @@
 package main
 
 import (
-	"ex01/pkg/mylogger"
 	"os"
+
+	"ex01/pkg/mylogger"
 )
 
 func main() {

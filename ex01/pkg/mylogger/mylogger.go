@@ -1,10 +1,11 @@
 package mylogger
 
 import (
-	"ex01/pkg/mylogger/level"
-	"ex01/pkg/mylogger/log"
 	"fmt"
 	"io"
+
+	"ex01/pkg/mylogger/level"
+	"ex01/pkg/mylogger/log"
 )
 
 // Logger ...
